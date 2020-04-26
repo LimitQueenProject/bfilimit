@@ -1,0 +1,29 @@
+{
+  "name": "bflimit",
+  "version": "1.0.0",
+  "description": "woy",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "bash-obfuscate": "^1.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LimitQueenProject/ba.git"
+  },
+  "keywords": [
+    "barera1309044"
+  ],
+  "author": "roy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LimitQueenProject/ba/issues"
+  },
+  "homepage": "https://github.com/LimitQueenProject/ba#readme"
+}
